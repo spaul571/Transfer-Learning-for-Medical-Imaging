@@ -2,7 +2,7 @@
 
 Fine-tuning versus training from scratch for pneumonia detection on chest radiographs.
 
-**Course:** CSE-638 Deep Learning — Daffodil International University
+**Course:** CSE-638: Deep Learning — Daffodil International University
 **Quiz 2, Topic E** — Group / Team No. 5
 
 | Group Member | Student ID |
