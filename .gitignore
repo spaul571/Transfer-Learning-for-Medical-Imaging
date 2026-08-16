@@ -1,0 +1,40 @@
+# archives / derived binaries
+*.zip
+*.docx
+
+# scratch images
+ChatGPT Image*.png
+
+# superseded notebooks (kept locally, not part of the submission)
+quiz-1.ipynb
+quiz-1 (1).ipynb
+quiz-1-clean.ipynb
+chest_xray_transfer_learning_v2.ipynb
+chest_xray_transfer_learning_v3.ipynb
+
+# assignment brief (course material, not our work)
+DL_Group_Assignment_1.pdf
+
+# working drafts and the .docx builder (kept locally only)
+Quiz1_Transfer_Learning_Report.md
+Quiz1_Process_Record.md
+generate_report.py
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.xdv
+*.bbl
+*.blg
+
+# python / editor
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
