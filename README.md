@@ -1,9 +1,9 @@
-# Quiz-2: Transfer Learning for Medical Imaging
+# Transfer Learning for Medical Imaging
 
 Fine-tuning versus training from scratch for pneumonia detection on chest radiographs.
 
 **Course:** CSE-638: Deep Learning — Daffodil International University
-**Quiz 2, Topic E** — Group / Team No. 5
+**Topic E** — Group / Team No. 5
 
 | Group Member | Student ID |
 | --- | --- |
