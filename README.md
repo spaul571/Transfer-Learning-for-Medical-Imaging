@@ -44,6 +44,6 @@ are not stored in this repository.
 | `02-balanced-scratch.ipynb` | Phase 2 — balanced data, trained from scratch |
 | `03-finetuned-gradcam.ipynb` | Phase 3 — ImageNet fine-tuning and explainability |
 | `results1/`, `results2/`, `results3/` | Plots produced by each notebook, one folder per phase |
-| `overleaf/` | LaTeX source, figures, and compiled PDF of the report |
+| `report/` | LaTeX source, figures, and compiled PDF of the report |
 
 Every figure in the report is a verbatim output of these notebooks.
